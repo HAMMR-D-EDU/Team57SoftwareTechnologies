@@ -9,3 +9,4 @@ git remote -v
 git branch
 git switch
 git merge
+git pull
