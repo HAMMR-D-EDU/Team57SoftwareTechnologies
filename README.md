@@ -11,3 +11,4 @@ git switch
 git merge
 git pull
 git push
+git diff -staged
