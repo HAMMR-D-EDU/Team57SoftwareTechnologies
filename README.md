@@ -5,3 +5,4 @@ git clone lt
 git config --list --show-origin
 git add
 git commit -m
+git remote -v
