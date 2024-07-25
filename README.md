@@ -13,4 +13,4 @@ git pull
 git push
 git diff -staged
 
-Change for lab 2
+Change for lab 2.
