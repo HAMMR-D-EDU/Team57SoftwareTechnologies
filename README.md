@@ -7,3 +7,4 @@ git add
 git commit -m
 git remote -v
 git branch
+git switch
