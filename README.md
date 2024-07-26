@@ -12,3 +12,7 @@ git merge
 git pull
 git push
 git diff -staged
+
+Change for lab 2.
+
+Some more changes for lab 2. 
